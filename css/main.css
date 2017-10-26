@@ -1,0 +1,55 @@
+/*
+ * Estilos de tu proyecto
+ */
+ body{
+ 	margin: 0 auto;
+ }
+.home{
+ 	background-image: url(../assets/images/hero.gif);
+ 	/*background: linear-gradient(#76278F, #2B1E66);*/
+ 	background-repeat: no-repeat;
+ 	background-size: 100%;
+ 	padding-bottom: 30%;
+}
+.logo{
+ 	max-width: 5%;
+ 	margin-top: 2%;
+ 	margin-left: 5%;
+ 	margin-right: 50%;
+}
+.barra a{
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 130%;
+	font-weight: lighter;
+	margin-left: 2%;
+	top: 0;
+}
+.login{
+ 	border: 1px solid white;
+ 	border-radius: 8px 8px 8px 8px;
+ 	padding: 0.8%;
+}
+.caja-blanca{
+	background-color: white;
+	width: 35%;
+	height: 30%;
+	margin-top: 6%;
+	margin-left: 55%;
+	font-family: 'Montserrat', sans-serif;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
+.caja-blanca h1{
+	color: #352384;
+	font-size: 250%;
+	font-weight: 600;
+}
+.sign{
+	color: #352384;
+	font-size: 90%;
+}
+
+
